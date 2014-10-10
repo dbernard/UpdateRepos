@@ -3,6 +3,7 @@ repos=(
     "$HOME/.vim"
     "$HOME/.vimuser-jszakmeister"
     "$HOME/.vimuser"
+    "$HOME/projects/etc"
 )
 
 echo "Attempting to update" ${#repos[@]} "repositories.\n"
